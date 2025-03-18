@@ -1,0 +1,7 @@
+/turtlesim_node:
+  ros__parameters:
+    catch_closest_turtle_first: True
+
+/turtle_spawner:
+  ros__parameters:
+    spawn_frequency: 1.0
